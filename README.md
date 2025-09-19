@@ -1,4 +1,4 @@
-# 🏦 Bank Management System (BMC)
+# 🏦 Bank Management System (BMC) - SA3 Bank
 
 A **Bank Management System** built using **Java Swing (GUI)** for the frontend and **MySQL Workbench** for the backend database.  
 This project simulates essential banking operations such as account creation, deposit, withdrawal, balance checking, and PIN management.  
